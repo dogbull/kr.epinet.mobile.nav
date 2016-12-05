@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="kr.epinet.mobile.nav" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>nav</name>
+<widget id="kr.epinet.mobile.ansim2" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>ANSIM</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        ANti-risk System of abrupt hazards as an Integrated Model
     </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">
-        Apache Cordova Team
+    <author email="www.jrr.kr@gmail.com" href="http://jrr.kr">
+        ParkJooHyeon
     </author>
-    <content src="https://dis.epinet.kr" />
+    <content src="https://ansim2.epinet.kr" />
     <allow-navigation href="*" />
     <plugin name="cordova-plugin-whitelist" spec="1" />
     <access origin="*" />
