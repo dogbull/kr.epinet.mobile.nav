@@ -1,2 +1,5 @@
 아이콘 생성
-http://pgicons.abiro.com/
+https://github.com/eberlitz/splashicon-generator
+npm install splashicon-generator -g
+
+
