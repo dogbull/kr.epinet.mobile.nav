@@ -24,4 +24,6 @@
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
     </platform>
+    <plugin name="cordova-plugin-navtoolbar" spec="~0.0.1" />
+    <plugin name="cordova-plugin-loadingspinner" spec="~0.0.1" />
 </widget>
