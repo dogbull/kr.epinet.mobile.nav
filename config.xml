@@ -54,6 +54,6 @@
         <splash width="2732" height="2048" src="res/screens/ios/screen-ipad-landscape-ipadpro.png" />
         <splash width="2048" height="2732" src="res/screens/ios/screen-ipad-portrait-ipadpro.png" />
     </platform>
-    <plugin name="cordova-plugin-navtoolbar" spec="~0.0.1" />
+    <plugin name="cordova-plugin-navtoolbar" spec="~0.0.2" />
     <plugin name="cordova-plugin-loadingspinner" spec="~0.0.1" />
 </widget>
