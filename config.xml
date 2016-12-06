@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="kr.epinet.mobile.ansim2015" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>ANSIM</name>
+<widget id="kr.epinet.mobile.tocsa2016" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>ToCSA</name>
     <description>
-        ANti-risk System of abrupt hazards as an Integrated Model
+        Tonga Climate Service for Agriculture.
     </description>
     <author email="www.jrr.kr@gmail.com" href="http://jrr.kr">
         ParkJooHyeon
     </author>
-    <content src="http://ansim2.epinet.kr" />
+    <content src="http://met.gov.to:2016/" />
     <allow-navigation href="*" />
     <plugin name="cordova-plugin-whitelist" spec="1" />
     <access origin="*" />
