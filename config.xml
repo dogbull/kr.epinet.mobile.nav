@@ -7,7 +7,7 @@
     <author email="www.jrr.kr@gmail.com" href="http://jrr.kr">
         ParkJooHyeon
     </author>
-    <content src="https://ansim2.epinet.kr" />
+    <content src="http://ansim2.epinet.kr" />
     <allow-navigation href="*" />
     <plugin name="cordova-plugin-whitelist" spec="1" />
     <access origin="*" />
