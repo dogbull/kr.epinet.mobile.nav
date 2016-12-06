@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="kr.epinet.mobile.tocsa2016" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>ToCSA</name>
+<widget id="kr.epinet.mobile.agmet2016" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>농업기상조기경보</name>
     <description>
-        Tonga Climate Service for Agriculture.
+        Implementation of an Early Warning Service for Weather Risk Management in Climate-smart Agriculture
     </description>
     <author email="www.jrr.kr@gmail.com" href="http://jrr.kr">
         ParkJooHyeon
     </author>
-    <content src="http://met.gov.to:2016/" />
+    <content src="http://mobile.agmet.kr" />
     <allow-navigation href="*" />
     <plugin name="cordova-plugin-whitelist" spec="1" />
     <access origin="*" />
