@@ -7,7 +7,7 @@
     <author email="www.jrr.kr@gmail.com" href="http://jrr.kr">
         ParkJooHyeon
     </author>
-    <content src="http://mobile.agmet.kr" />
+    <content src="http://mobile.agmet.kr/index.php" />
     <allow-navigation href="*" />
     <plugin name="cordova-plugin-whitelist" spec="1" />
     <access origin="*" />
