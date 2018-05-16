@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="kr.epinet.mobile.agmet2016" version="1.0.1" xmlns="http://www.w3.org/ns/widgets">
+<widget id="kr.epinet.mobile.agmet" version="1.0.1" xmlns="http://www.w3.org/ns/widgets">
     <name>농업기상조기경보</name>
     <description>
         Implementation of an Early Warning Service for Weather Risk Management in Climate-smart Agriculture
